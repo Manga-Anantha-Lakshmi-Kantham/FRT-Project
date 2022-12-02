@@ -10,3 +10,5 @@
 #When we selected a movie tickets, the cost will be varies on different movies.
 #The price will be automatically calculated on the basis of number of seats has been booked or selected.
 #We developed this project for booking online tickets.
+![Screenshot (10)](https://user-images.githubusercontent.com/119611171/205344707-877b534b-5a8b-46cb-9173-77c16d8e4242.png)
+#Here we have created the chatbot for answering the questions of the users.
