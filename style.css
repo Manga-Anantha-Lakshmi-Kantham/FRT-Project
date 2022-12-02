@@ -113,3 +113,12 @@ p.text {
 p.text span {
   color: #6feaf6;
 }
+Chat {
+  position: absolute;
+  padding: 0.25rem;
+  display: flex;
+  right: 20px;
+  top: 600px;
+  color: rgb(0, 133, 133);
+
+}
