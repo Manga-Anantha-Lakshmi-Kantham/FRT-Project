@@ -2,7 +2,7 @@
 
 # Demo URL : https://kind-meadow-03b7a5b10.2.azurestaticapps.net
 
-* This project mainly is based on HTML, Javascript and CSS And we have used two azure skill's.
+* This project mainly is based on HTML, Javascript and CSS And we have used two azure skills.
 
 # This is My Project interface
 ![Screenshot (8)](https://user-images.githubusercontent.com/119611171/205322311-c83e5c71-c2c2-4384-896b-26db40973e14.png)
